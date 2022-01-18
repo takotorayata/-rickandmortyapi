@@ -1,7 +1,6 @@
 Rickandmorty test task
 
 ![alt text](https://github.com/takotorayata/rickandmortyapi-test-task/blob/main/public/rickandmortyapi.png)
-![alt text](https://github.com/takotorayata/rickandmortyapi-test-task/blob/main/public/rickandmortyapicard.png)
 
 Task Description
 
