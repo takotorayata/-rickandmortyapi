@@ -1,4 +1,4 @@
-Rickandmortyapi test task
+RickandMortyAPI test task
 
 ![alt text](https://github.com/takotorayata/rickandmortyapi-test-task/blob/main/public/rickandmortyapi.png)
 
